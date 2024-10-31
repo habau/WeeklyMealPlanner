@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "name": "Eggs and Bacon",
+    "description": "A delicious breakfast meal",
+    "day": "Monday",
+    "type": "breakfast"
+  },
+  {
+    "id": "2",
+    "name": "Pasta",
+    "description": "Quick and easy lunch",
+    "day": "Tuesday",
+    "type": "lunch"
+  }
+]
